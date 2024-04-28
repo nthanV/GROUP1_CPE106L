@@ -1,3 +1,4 @@
+"""Laboratory 1"""
 def calculatemedian(lst):
     sortedlist = sorted(lst)
     mid = len(sortedlist) // 2
